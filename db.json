@@ -1,0 +1,188 @@
+{
+  "Customer": [
+    {
+      "name": "Cassidy Kinney",
+      "phone": "0107745461",
+      "pet": "cat",
+      "gender": "male",
+      "locationRegion": {
+        "province_id": "93",
+        "province_name": "Tỉnh Hậu Giang",
+        "district_id": "936",
+        "district_name": "Huyện Long Mỹ",
+        "ward_id": "31484",
+        "ward_name": "Xã Thuận Hòa"
+      },
+      "address": "Est possimus id qu",
+      "spa": [
+        "Chải Lông",
+        "Cắt Móng"
+      ],
+      "id": 1,
+      "customerId": "1"
+    },
+    {
+      "name": "Cooper Buchanan",
+      "phone": "0945622126",
+      "pet": "cat",
+      "gender": "female",
+      "locationRegion": {
+        "province_id": "94",
+        "province_name": "Tỉnh Sóc Trăng",
+        "district_id": "943",
+        "district_name": "Huyện Kế Sách",
+        "ward_id": "31552",
+        "ward_name": "Xã Nhơn Mỹ"
+      },
+      "address": "Est porro qui minima",
+      "spa": [
+        "Đi Dạo"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Tatum Briggs",
+      "phone": "0100849552",
+      "pet": "dog",
+      "gender": "male",
+      "locationRegion": {
+        "province_id": "52",
+        "province_name": "Tỉnh Bình Định",
+        "district_id": "548",
+        "district_name": "Huyện Phù Cát",
+        "ward_id": "21901",
+        "ward_name": "Xã Cát Thắng"
+      },
+      "address": "Dicta amet qui et d",
+      "spa": [
+        "Chải Lông",
+        "Cắt Móng"
+      ],
+      "id": 3
+    },
+    {
+      "name": "Adele Lambert",
+      "phone": "0842666489",
+      "pet": "dog",
+      "gender": "female",
+      "locationRegion": {
+        "province_id": "56",
+        "province_name": "Tỉnh Khánh Hòa",
+        "district_id": "575",
+        "district_name": "Huyện Khánh Sơn",
+        "ward_id": "22723",
+        "ward_name": "Xã Sơn Hiệp"
+      },
+      "address": "Excepturi et et volu",
+      "spa": [
+        "Chải Lông",
+        "Cắt Móng",
+        "Đi Dạo",
+        "Tắm Pet"
+      ],
+      "id": 4,
+      "customerId": "4"
+    },
+    {
+      "name": "Echo Hahn",
+      "phone": "0385417819",
+      "pet": "dog",
+      "gender": "female",
+      "locationRegion": {
+        "province_id": "51",
+        "province_name": "Tỉnh Quảng Ngãi",
+        "district_id": "528",
+        "district_name": "Huyện Tư Nghĩa",
+        "ward_id": "21265",
+        "ward_name": "Xã Nghĩa Thọ"
+      },
+      "address": "Quos reprehenderit ",
+      "spa": [
+        "Đi Dạo"
+      ],
+      "id": 5,
+      "customerId": "5"
+    },
+    {
+      "name": "Rosalyn Beck",
+      "phone": "0565899476",
+      "pet": "dog",
+      "gender": "female",
+      "locationRegion": {
+        "province_id": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_id": "108",
+        "district_name": "Huyện Sìn Hồ",
+        "ward_id": "03505",
+        "ward_name": "Xã Phăng Sô Lin"
+      },
+      "address": "Nostrud ex minim ven",
+      "spa": [
+        "Chải Lông",
+        "Cắt Móng"
+      ],
+      "id": 6
+    },
+    {
+      "name": "Keegan Adkins",
+      "phone": "0908866069",
+      "pet": "dog",
+      "gender": "male",
+      "locationRegion": {
+        "province_id": "96",
+        "province_name": "Tỉnh Cà Mau",
+        "district_id": "972",
+        "district_name": "Huyện Phú Tân",
+        "ward_id": "32218",
+        "ward_name": "Xã Phú Tân"
+      },
+      "address": "Ipsam eiusmod quae n",
+      "spa": [
+        "Chải Lông",
+        "Đi Dạo"
+      ],
+      "id": 7,
+      "customerId": "7"
+    },
+    {
+      "name": "Bruno Moss",
+      "phone": "0625802551",
+      "pet": "dog",
+      "gender": "male",
+      "locationRegion": {
+        "province_id": "12",
+        "province_name": "Tỉnh Lai Châu",
+        "district_id": "112",
+        "district_name": "Huyện Nậm Nhùn",
+        "ward_id": "03474",
+        "ward_name": "Xã Nậm Manh"
+      },
+      "address": "Sapiente enim laboru",
+      "spa": [
+        "Tắm Pet"
+      ],
+      "id": 8
+    },
+    {
+      "name": "Karleigh Bennett",
+      "phone": "0926170355",
+      "pet": "dog",
+      "gender": "male",
+      "locationRegion": {
+        "province_id": "46",
+        "province_name": "Tỉnh Thừa Thiên Huế",
+        "district_id": "474",
+        "district_name": "Thành phố Huế",
+        "ward_id": "19774",
+        "ward_name": "Phường Kim Long"
+      },
+      "address": "Nostrud quaerat et c",
+      "spa": [
+        "Cắt Móng",
+        "Đi Dạo"
+      ],
+      "id": 9,
+      "customerId": "9"
+    }
+  ]
+}
